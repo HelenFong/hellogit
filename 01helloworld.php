@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>My first PHP page</h1>
+<h1>My first PHP page HeLlO wOrLd</h1>
 
 <?php
 echo "<h3>php keywords are not case-sensitive</h3>";
